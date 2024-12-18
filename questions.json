@@ -1,0 +1,397 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    {
+      "heading": "Assessment",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "A student scores <sup>3</sup>&frasl;<sub>5</sub> of the marks in Math and <sup>4</sup>&frasl;<sub>7</sub> of the marks in Science. If the total marks for each subject are 100, which subject did the student score higher in absolute marks?",
+          "options": [
+            { "text": "Maths" },
+            { "text": "Science" },
+            { "text": "Scores are equal" },
+            { "text": "Insufficient data" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "Evaluate the expression:<br><img width='55%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "image": "./assests/images/option/1.jpg" },
+            { "image": "./assests/images/option/2.jpg"  },
+            { "image": "./assests/images/option/3.jpg"  },
+            { "image": "./assests/images/option/4.jpg"  }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "<img width='55%' src='./assests/images/question/2.png'><br>, then value of A + B is ____.",
+          "options": [
+            { "text": "234" },
+            { "text": "259" },
+            { "text": "339" },
+            { "text": "303" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 4,
+          "question": "Arrange the following 5 numbers in ascending order: <br><img width='55%' src='./assests/images/question/3.png'>",
+          "options": [
+            { "text": "5th number, 2nd number, 1st number, 4th number, 3rd number" },
+            { "text": "2nd number, 5th number, 1st number, 3rd number, 4th number" },
+            { "text": "2nd number, 5th number, 1st number, 4th number, 3rd number" },
+            { "text": "4th number, 3rd number, 1st number, 2nd number, 5th number" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "Simplify: <br><img width='55%' src='./assests/images/question/4.png'>",
+          "options": [
+            { "image": "./assests/images/option/5.jpg" },
+            { "image": "./assests/images/option/6.jpg"  },
+            { "image": "./assests/images/option/7.jpg"  },
+            { "image": "./assests/images/option/8.jpg"  }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "question": "If <sup>1</sup>&frasl;<sub>8</sub> of a cake is left uneaten and the rest is shared equally among 4 children, what fraction of the cake does each child get?",
+          "options": [
+            { "image": "./assests/images/option/9.jpg" },
+            { "image": "./assests/images/option/10.jpg"  },
+            { "image": "./assests/images/option/11.jpg"  },
+            { "image": "./assests/images/option/12.jpg"  }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "A fruit punch recipe calls for mixing <sup>1</sup>&frasl;<sub>2</sub> litre of orange juice and <sup>1</sup>&frasl;<sub>4</sub> litre of apple juice. If one-third of the mixture is served, how much of the total juice mixture remains?",
+          "options": [
+            { "image": "./assests/images/option/13.jpg" },
+            { "image": "./assests/images/option/14.jpg"  },
+            { "image": "./assests/images/option/15.jpg"  },
+            { "image": "./assests/images/option/16.jpg"  }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "Evaluate: <br><img width='55%' src='./assests/images/question/5.png'>",
+          "options": [
+            { "image": "./assests/images/option/17.jpg" },
+            { "image": "./assests/images/option/18.jpg"  },
+            { "image": "./assests/images/option/19.jpg"  },
+            { "image": "./assests/images/option/20.jpg"  }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 9,
+          "question": "Which of the following option gives the smallest integer greater than the following expression: <br><img width='55%' src='./assests/images/question/6.png'>",
+          "options": [
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "6" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 10,
+          "question": "A cyclist starts a multi-day tour from the valley floor, which is at sea level. On the first day, she cycles uphill for 95 meters but has to backtrack 30 meters due to a fallen tree blocking the path. On the second day, she faces strong headwinds and manages to push forward another 80 meters, but the strong winds force her back by 40 meters. On the third day, she makes significant progress, cycling an additional 120 meters upward, though she loses 20 meters when she takes a wrong turn. On the fourth day, under clear skies and favorable conditions, she cycles 110 meters upward without any setbacks. What is the cyclist’s final elevation after four days?",
+          "options": [
+            { "text": "295 meters" },
+            { "text": "315 meters" },
+            { "text": "325 meters" },
+            { "text": "345 meters" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "In a sequence of operations on the integer -14, a student first multiplies it by -1, then adds 6, divides the result by 2, and finally subtracts 3. What is the final result of these operations?",
+          "options": [
+            { "text": "4" },
+            { "text": "-4" },
+            { "text": "7" },
+            { "text": "-7" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "Which type of fraction does the colored portion in the image represent?<br><img width='45%' src='./assests/images/question/13.png'>",
+          "options": [
+            { "text": "Proper fraction" },
+            { "text": "Improper fraction" },
+            { "text": "Like fraction" },
+            { "text": "None of the above" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "Which of the following results is a positive fraction when simplified?",
+          "options": [
+            { "image": "./assests/images/option/21.jpg" },
+            { "image": "./assests/images/option/22.jpg"  },
+            { "image": "./assests/images/option/23.jpg"  },
+            { "image": "./assests/images/option/24.jpg"  }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 14,
+          "question": "From the given list of fractions, calculate the result of (sum of proper fractions) minus (sum of like and improper fractions). <br><img width='55%' src='./assests/images/question/7.png'>",
+          "options": [
+            { "image": "./assests/images/option/25.jpg" },
+            { "image": "./assests/images/option/26.jpg"  },
+            { "image": "./assests/images/option/27.jpg"  },
+            { "image": "./assests/images/option/28.jpg"  }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "From the list below, which of the following is neither an improper fraction nor a unit fraction? <br><img width='55%' src='./assests/images/question/8.png'>",
+          "options": [
+            { "image": "./assests/images/option/29.jpg" },
+            { "image": "./assests/images/option/30.jpg"  },
+            { "image": "./assests/images/option/31.jpg"  },
+            { "image": "./assests/images/option/32.jpg"  }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following fractions lies between <sup>1</sup>&frasl;<sub>3</sub> and <sup>1</sup>&frasl;<sub>2</sub>?",
+          "options": [
+            { "image": "./assests/images/option/33.jpg" },
+            { "image": "./assests/images/option/34.jpg"  },
+            { "image": "./assests/images/option/35.jpg"  },
+            { "image": "./assests/images/option/36.jpg"  }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following statements best describes how integers can be represented as fractions?",
+          "options": [
+            { "text": "Any integer can be represented as a fraction by using any non-zero integer as the numerator." },
+            { "text": "An integer can only be represented as a fraction if both the numerator and the denominator are even numbers." },
+            { "text": "Any integer can be represented as a fraction by placing it over 1, turning it into a fraction equivalent to itself." },
+            { "text": "Integers are not fractions and cannot be represented as such." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 18,
+          "question": "Calculate the result of multiplying the smallest positive integer by the greatest negative integer within the range of -5 to 5 (end points included).",
+          "options": [
+            { "text": "-25" },
+            { "text": "5" },
+            { "text": "-1" },
+            { "text": "1" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "A school auditorium has 256 seats. If <sup>3</sup>&frasl;<sub>4</sub> of the seats are filled and then 24 more students leave, how many students remain seated?",
+          "options": [
+            { "text": "168" },
+            { "text": "180" },
+            { "text": "192" },
+            { "text": "204" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 20,
+          "question": "What is the sum of an integer and its opposite?",
+          "options": [
+            { "text": "0" },
+            { "text": "1" },
+            { "text": "The integer itself" },
+            { "text": "Depends on the integer" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 21,
+          "question": "Sum of <sup>1</sup>&frasl;<sub>2</sub> and 2 is a ______.",
+          "options": [
+            { "text": "Proper fraction" },
+            { "text": "Improper fraction" },
+            { "text": "Unit fraction" },
+            { "text": "None of the above" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 22,
+          "question": "What is the sum of the smallest and largest fractions from the list given below? <br><img width='55%' src='./assests/images/question/9.png'>",
+          "options": [
+            { "image": "./assests/images/option/37.jpg" },
+            { "image": "./assests/images/option/38.jpg"  },
+            { "image": "./assests/images/option/39.jpg"  },
+            { "image": "./assests/images/option/40.jpg"  }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 23,
+          "question": "Choose the incorrect option regarding the properties of fractions:",
+          "options": [
+            { "text": "Positive Proper fractions are always less than 1." },
+            { "text": "Positive Improper fractions are always greater than 1." },
+            { "text": "All unit fractions are greater than 1." },
+            { "text": "Negative Improper fractions are always less than -1." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "question": "Choose the correct option after performing the operations on the given modelled fractions.<br><img width='55%' src='./assests/images/question/10.png'>",
+          "options": [
+            { "image": "./assests/images/option/41.jpg" },
+            { "image": "./assests/images/option/42.jpg"  },
+            { "image": "./assests/images/option/43.jpg"  },
+            { "image": "./assests/images/option/44.jpg"  }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 25,
+          "question": "Which of the following statements about positive mixed fractions is incorrect?",
+          "options": [
+            { "text": "A positive mixed fraction can be converted into an improper fraction by multiplying the whole number part by the denominator, adding the numerator, and placing the result over the original denominator." },
+            { "text": "A positive mixed fraction is always greater than 1." },
+            { "text": "Positive mixed fractions are used to clearly represent sums of whole numbers and proper fractions." },
+            { "text": "A positive mixed fraction can be less than 1 if the fractional part is a proper fraction." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 26,
+          "question": "Evaluate the expression: <br><img width='55%' src='./assests/images/question/11.png'>",
+          "options": [
+            { "image": "./assests/images/option/45.jpg" },
+            { "image": "./assests/images/option/46.jpg"  },
+            { "image": "./assests/images/option/47.jpg"  },
+            { "image": "./assests/images/option/48.jpg"  }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 27,
+          "question": "What does it mean when two fractions are equivalent?",
+          "options": [
+            { "text": "They have the same denominator." },
+            { "text": "They result in the same fraction when simplified." },
+            { "text": "They are both greater than one." },
+            { "text": "They add up to 1." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 28,
+          "question": "Evaluate the following and select the correct answer: <br><img width='55%' src='./assests/images/question/12.png'>",
+          "options": [
+            { "image": "./assests/images/option/49.jpg" },
+            { "image": "./assests/images/option/50.jpg"  },
+            { "image": "./assests/images/option/51.jpg"  },
+            { "image": "./assests/images/option/52.jpg"  }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 29,
+          "question": "Which of the following is a declarative statement?",
+          "options": [
+            { "text": "Could you tell me the way to the museum?" },
+            { "text": "The Earth orbits the sun." },
+            { "text": "Turn off the lights before you leave." },
+            { "text": "Do you like chocolate?" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 30,
+          "question": "Which of the following is NOT a valid logical statement?",
+          "options": [
+            { "text": "This is possibly the best day ever." },
+            { "text": "Light travels faster than sound." },
+            { "text": "Two plus two equals four." },
+            { "text": "Ice melts at 32 degrees Fahrenheit." }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 31,
+          "question": "What can be inferred from the statement 'If it rains, the ground gets wet'?",
+          "options": [
+            { "text": "If it rains, the ground is not wet." },
+            { "text": "If the ground is wet, it is raining." },
+            { "text": "If it is not raining, the ground is wet." },
+            { "text": "If the ground is not wet, it is not raining." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 32,
+          "question": "If a person is a teacher, then they have a teaching certificate. Which of the following statements is the converse of the original statement?",
+          "options": [
+            { "text": "If a person is not a teacher, then they do not have a teaching certificate." },
+            { "text": "If a person has a teaching certificate, then they are a teacher." },
+            { "text": "If a person is not a teacher, then they have a teaching certificate." },
+            { "text": "If a person does not have a teaching certificate, then they are not a teacher." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 33,
+          "question": "If a student passes the exam, then they will attend the graduation ceremony. Which one of the following must be true?",
+          "options": [
+            { "text": "A student who did not pass the exam attended the graduation ceremony." },
+            { "text": "A student who did not attend the graduation ceremony passed the exam." },
+            { "text": "A student who did not attend the graduation ceremony did not pass the exam." },
+            { "text": "A student who attended the graduation ceremony did not pass the exam." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 34,
+          "question": "In a gym, anyone who uses the weightlifting equipment also uses the cardio machines. No one who attends yoga classes uses the weightlifting equipment. Which one of the following cannot be false?",
+          "options": [
+            { "text": "Sam uses cardio machines and does not attend yoga classes." },
+            { "text": "Alex uses weightlifting equipment and does not use cardio machines." },
+            { "text": "Mia attends yoga classes and uses weightlifting equipment." },
+            { "text": "Nina does not use cardio machines nor weightlifting equipment." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 35,
+          "question": "In a company, anyone who works in project management must also undergo leadership training. No one in the technical support team undergoes leadership training. Which one of the following is true?",
+          "options": [
+            { "text": "John works in project management and has not undergone leadership training." },
+            { "text": "Lisa works in technical support and does not undergo leadership training." },
+            { "text": "Mark undergoes leadership training and works in project management." },
+            { "text": "Sarah works in technical support and undergoes leadership training." }
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+    }
+  ]
+}
